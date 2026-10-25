@@ -1,0 +1,26 @@
+{
+  "1": {
+    "password_hash": "$2b$12$lqYGgHkCLTw47GywIPPUoO5jhQjTywbEfJ0dWeYgCU.SBidAE/XBS",
+    "role": "Administrator"
+  },
+  "2": {
+    "password_hash": "$2b$12$GrEw.4ZlbCtPvFjF5tJCHOIPM5VxQXLUWggQIS6qMkGMjprvfrBmi",
+    "role": "Safety Officer"
+  },
+  "3": {
+    "password_hash": "$2b$12$pmmobxeuNAmAeXuiK5GSb.W750N19F13YPHcd/jqA/sYePXvMs32y",
+    "role": "Mining Engineer"
+  },
+  "4": {
+    "password_hash": "$2b$12$AyyTmqAsObp6cAQQkiwlhu1pngirTvlEKU1WOH/KbNfNsMTZotznW",
+    "role": "Maintenance Engineer"
+  },
+  "5": {
+    "password_hash": "$2b$12$QrmSDTuh0npNqY.DTwm29.1P2wf1Qam7pm4Hd0tnmOCrN0g8Kt8Gm",
+    "role": "Manager"
+  },
+  "6": {
+    "password_hash": "$2b$12$INcRLzDDA8Exhey8kvL0z.E/FVv4XLES1p86pUffUoXVl76H1ZDA6",
+    "role": "Mining Engineer"
+  }
+}

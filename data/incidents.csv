@@ -1,0 +1,81 @@
+incident_id,date,time,shift,location,department,incident_type,severity,injury,lost_time_injury,cause,corrective_action,status
+INC-0001,2026-08-19,15:00,Day,Control Room,Engineering,Medical Treatment,High,Yes,Yes,Poor housekeeping,Equipment repair,Closed
+INC-0002,2026-07-29,19:15,Night,Control Room,Engineering,Fall of Ground,Low,Yes,No,Unsafe condition,Area barricaded,Closed
+INC-0003,2026-09-02,08:00,Day,Crusher Station,Processing Plant,Slip/Trip/Fall,High,Yes,Yes,Fatigue,Procedure reviewed,Under Investigation
+INC-0004,2026-08-06,22:15,Night,Pit South,Surface Mining,Medical Treatment,High,Yes,Yes,Fatigue,Equipment repair,Under Investigation
+INC-0005,2026-06-02,11:30,Day,Control Room,Engineering,Medical Treatment,Medium,Yes,No,Fatigue,Procedure reviewed,Under Investigation
+INC-0006,2026-08-01,07:00,Day,Stockpile,Processing Plant,Near Miss,Low,No,No,Inadequate supervision,Housekeeping improved,Open
+INC-0007,2026-06-08,23:30,Night,Pit North,Surface Mining,Medical Treatment,High,No,No,Inadequate training,Equipment repair,Under Investigation
+INC-0008,2026-10-07,05:30,Night,Stockpile,Processing Plant,First Aid,High,Yes,Yes,Unsafe condition,Housekeeping improved,Closed
+INC-0009,2026-06-30,03:30,Night,Main Workshop,Maintenance Workshop,Slip/Trip/Fall,Medium,Yes,No,Unsafe act,Area barricaded,Closed
+INC-0010,2026-10-02,03:00,Night,Main Workshop,Maintenance Workshop,Equipment Failure,Medium,No,No,Unsafe condition,Additional supervision,Closed
+INC-0011,2026-05-18,07:15,Day,Shaft Station 3,Underground Mining,Near Miss,Medium,No,No,Poor housekeeping,Procedure reviewed,Closed
+INC-0012,2026-05-17,18:00,Night,Crusher Station,Processing Plant,Slip/Trip/Fall,Low,Yes,No,Fatigue,Equipment repair,Under Investigation
+INC-0013,2026-09-10,05:00,Night,Level 14 Haulage,Underground Mining,Near Miss,Low,No,No,Poor housekeeping,Housekeeping improved,Closed
+INC-0014,2026-04-24,01:45,Night,Crusher Station,Processing Plant,Near Miss,Medium,No,No,Fatigue,Equipment repair,Closed
+INC-0015,2026-09-21,21:15,Night,Survey Office,Engineering,Equipment Failure,Low,No,No,Equipment failure,Equipment repair,Open
+INC-0016,2026-08-08,09:45,Day,Pit North,Surface Mining,Property Damage,High,No,No,Poor housekeeping,Housekeeping improved,Under Investigation
+INC-0017,2026-10-10,08:45,Day,Tyre Bay,Maintenance Workshop,Medical Treatment,Medium,Yes,No,Inadequate supervision,Area barricaded,Open
+INC-0018,2026-05-01,21:30,Night,Waste Dump,Surface Mining,Slip/Trip/Fall,Medium,No,No,Unsafe act,Equipment repair,Under Investigation
+INC-0019,2026-05-11,08:45,Day,Main Workshop,Maintenance Workshop,Near Miss,Medium,No,No,Poor housekeeping,Area barricaded,Under Investigation
+INC-0020,2026-07-28,21:45,Night,Stockpile,Processing Plant,Near Miss,Low,No,No,Poor housekeeping,Area barricaded,Closed
+INC-0021,2026-08-01,17:30,Day,Tyre Bay,Maintenance Workshop,Near Miss,Low,No,No,Unsafe act,Procedure reviewed,Closed
+INC-0022,2026-06-10,21:30,Night,Shaft Station 3,Underground Mining,Slip/Trip/Fall,Medium,Yes,No,Inadequate training,Procedure reviewed,Closed
+INC-0023,2026-04-25,06:45,Day,Level 12 Stope,Underground Mining,First Aid,Low,Yes,No,Unsafe act,Housekeeping improved,Closed
+INC-0024,2026-06-01,22:45,Night,Pit North,Surface Mining,Near Miss,Low,No,No,Unsafe condition,Retraining,Under Investigation
+INC-0025,2026-06-12,20:30,Night,Level 14 Haulage,Underground Mining,Slip/Trip/Fall,Medium,Yes,No,Inadequate training,Procedure reviewed,Closed
+INC-0026,2026-05-20,14:15,Day,Pit North,Surface Mining,Property Damage,Medium,No,No,Equipment failure,Procedure reviewed,Under Investigation
+INC-0027,2026-08-05,08:45,Day,Survey Office,Engineering,Equipment Failure,Low,No,No,Poor housekeeping,Additional supervision,Under Investigation
+INC-0028,2026-07-30,17:15,Day,Stockpile,Processing Plant,Equipment Failure,Medium,No,No,Unsafe condition,Additional supervision,Under Investigation
+INC-0029,2026-07-15,01:45,Night,Main Workshop,Maintenance Workshop,First Aid,Medium,No,No,Poor housekeeping,Retraining,Open
+INC-0030,2026-06-26,10:00,Day,Survey Office,Engineering,Slip/Trip/Fall,High,Yes,Yes,Poor housekeeping,Housekeeping improved,Closed
+INC-0031,2026-05-14,15:45,Day,Shaft Station 3,Underground Mining,Equipment Failure,Low,No,No,Unsafe act,Area barricaded,Closed
+INC-0032,2026-06-18,12:00,Day,Survey Office,Engineering,Slip/Trip/Fall,Medium,No,No,Unsafe condition,Housekeeping improved,Closed
+INC-0033,2026-09-25,07:00,Day,Milling Circuit,Processing Plant,Equipment Failure,Medium,No,No,Unsafe condition,Housekeeping improved,Under Investigation
+INC-0034,2026-07-02,01:15,Night,Level 12 Stope,Underground Mining,First Aid,Low,Yes,No,Inadequate supervision,Procedure reviewed,Closed
+INC-0035,2026-05-15,05:15,Night,Pit South,Surface Mining,Near Miss,Medium,No,No,Inadequate supervision,Equipment repair,Open
+INC-0036,2026-08-08,14:15,Day,Crusher Station,Processing Plant,First Aid,Low,No,No,Poor housekeeping,Area barricaded,Closed
+INC-0037,2026-08-04,20:15,Night,Milling Circuit,Processing Plant,Slip/Trip/Fall,Medium,Yes,No,Inadequate training,Procedure reviewed,Open
+INC-0038,2026-10-15,18:45,Night,Tyre Bay,Maintenance Workshop,First Aid,Low,Yes,No,Unsafe act,Additional supervision,Closed
+INC-0039,2026-08-08,19:15,Night,Shaft Station 3,Underground Mining,Equipment Failure,High,No,No,Inadequate training,Area barricaded,Open
+INC-0040,2026-09-15,19:00,Night,Waste Dump,Surface Mining,First Aid,High,Yes,Yes,Fatigue,Retraining,Under Investigation
+INC-0041,2026-09-27,01:30,Night,Tyre Bay,Maintenance Workshop,Property Damage,High,No,No,Fatigue,Procedure reviewed,Open
+INC-0042,2026-08-12,17:15,Day,Pit South,Surface Mining,Slip/Trip/Fall,Medium,Yes,No,Inadequate training,Procedure reviewed,Closed
+INC-0043,2026-08-24,23:45,Night,Stockpile,Processing Plant,Slip/Trip/Fall,High,Yes,Yes,Equipment failure,Retraining,Closed
+INC-0044,2026-05-01,08:30,Day,Shaft Station 3,Underground Mining,Property Damage,Medium,No,No,Poor housekeeping,Housekeeping improved,Closed
+INC-0045,2026-05-15,21:30,Night,Shaft Station 3,Underground Mining,Near Miss,Low,No,No,Unsafe condition,Housekeeping improved,Open
+INC-0046,2026-10-11,22:30,Night,Tyre Bay,Maintenance Workshop,First Aid,Medium,Yes,No,Unsafe act,Retraining,Open
+INC-0047,2026-04-25,04:45,Night,Survey Office,Engineering,First Aid,Medium,No,No,Poor housekeeping,Housekeeping improved,Open
+INC-0048,2026-06-29,19:45,Night,Main Workshop,Maintenance Workshop,First Aid,Critical,Yes,Yes,Inadequate training,Area barricaded,Open
+INC-0049,2026-08-11,17:15,Day,Crusher Station,Processing Plant,Slip/Trip/Fall,Medium,Yes,No,Inadequate training,Procedure reviewed,Open
+INC-0050,2026-09-18,20:15,Night,Pit North,Surface Mining,Fall of Ground,Critical,Yes,Yes,Inadequate training,Additional supervision,Open
+INC-0051,2026-10-20,07:30,Day,Pit North,Surface Mining,First Aid,Low,No,No,Unsafe condition,Additional supervision,Under Investigation
+INC-0052,2026-08-21,03:30,Night,Pit North,Surface Mining,Fall of Ground,Low,Yes,No,Unsafe condition,Area barricaded,Open
+INC-0053,2026-06-21,16:45,Day,Tyre Bay,Maintenance Workshop,Near Miss,Low,No,No,Inadequate supervision,Additional supervision,Open
+INC-0054,2026-05-05,07:30,Day,Control Room,Engineering,Slip/Trip/Fall,Low,Yes,No,Fatigue,Retraining,Open
+INC-0055,2026-06-29,12:00,Day,Main Workshop,Maintenance Workshop,First Aid,Low,Yes,No,Equipment failure,Additional supervision,Open
+INC-0056,2026-07-29,08:45,Day,Waste Dump,Surface Mining,Property Damage,Medium,No,No,Inadequate supervision,Area barricaded,Under Investigation
+INC-0057,2026-05-06,13:15,Day,Control Room,Engineering,Near Miss,Low,No,No,Poor housekeeping,Equipment repair,Under Investigation
+INC-0058,2026-05-03,12:30,Day,Tyre Bay,Maintenance Workshop,First Aid,Low,Yes,No,Unsafe condition,Housekeeping improved,Closed
+INC-0059,2026-07-17,02:15,Night,Shaft Station 3,Underground Mining,Slip/Trip/Fall,Low,Yes,No,Unsafe act,Additional supervision,Closed
+INC-0060,2026-07-04,10:00,Day,Control Room,Engineering,Fall of Ground,Medium,No,No,Inadequate supervision,Area barricaded,Under Investigation
+INC-0061,2026-08-24,16:00,Day,Control Room,Engineering,Near Miss,Medium,No,No,Inadequate training,Additional supervision,Under Investigation
+INC-0062,2026-05-30,18:00,Night,Stockpile,Processing Plant,Near Miss,Medium,No,No,Fatigue,Housekeeping improved,Under Investigation
+INC-0063,2026-07-26,08:30,Day,Pit North,Surface Mining,Equipment Failure,Low,No,No,Unsafe condition,Equipment repair,Closed
+INC-0064,2026-09-27,02:15,Night,Tyre Bay,Maintenance Workshop,Near Miss,Low,No,No,Poor housekeeping,Procedure reviewed,Under Investigation
+INC-0065,2026-05-28,09:00,Day,Crusher Station,Processing Plant,Equipment Failure,High,No,No,Unsafe condition,Equipment repair,Closed
+INC-0066,2026-05-04,21:45,Night,Level 14 Haulage,Underground Mining,Near Miss,Medium,No,No,Inadequate supervision,Procedure reviewed,Under Investigation
+INC-0067,2026-09-22,16:30,Day,Waste Dump,Surface Mining,Near Miss,Medium,No,No,Fatigue,Additional supervision,Under Investigation
+INC-0068,2026-10-19,01:15,Night,Milling Circuit,Processing Plant,Near Miss,Low,No,No,Unsafe condition,Equipment repair,Closed
+INC-0069,2026-07-02,10:15,Day,Crusher Station,Processing Plant,Near Miss,Medium,No,No,Poor housekeeping,Additional supervision,Closed
+INC-0070,2026-10-10,17:45,Day,Survey Office,Engineering,Slip/Trip/Fall,High,Yes,No,Poor housekeeping,Retraining,Closed
+INC-0071,2026-07-06,13:30,Day,Survey Office,Engineering,Property Damage,High,No,No,Poor housekeeping,Retraining,Closed
+INC-0072,2026-07-01,19:00,Night,Pit North,Surface Mining,Medical Treatment,Medium,Yes,No,Poor housekeeping,Additional supervision,Under Investigation
+INC-0073,2026-10-01,12:00,Day,Shaft Station 3,Underground Mining,Slip/Trip/Fall,High,Yes,No,Inadequate supervision,Equipment repair,Closed
+INC-0074,2026-09-13,11:15,Day,Crusher Station,Processing Plant,Equipment Failure,High,No,No,Unsafe condition,Area barricaded,Open
+INC-0075,2026-09-05,04:45,Night,Control Room,Engineering,Equipment Failure,Medium,No,No,Inadequate training,Additional supervision,Closed
+INC-0076,2026-05-14,21:30,Night,Tyre Bay,Maintenance Workshop,Slip/Trip/Fall,Medium,Yes,No,Unsafe condition,Procedure reviewed,Open
+INC-0077,2026-06-13,20:00,Night,Tyre Bay,Maintenance Workshop,First Aid,Low,Yes,No,Poor housekeeping,Procedure reviewed,Open
+INC-0078,2026-05-16,09:45,Day,Milling Circuit,Processing Plant,Near Miss,Low,No,No,Inadequate supervision,Additional supervision,Closed
+INC-0079,2026-05-19,14:45,Day,Shaft Station 3,Underground Mining,Slip/Trip/Fall,Medium,Yes,No,Unsafe condition,Retraining,Under Investigation
+INC-0080,2026-10-10,22:15,Night,Stockpile,Processing Plant,Near Miss,Low,No,No,Poor housekeeping,Procedure reviewed,Closed
